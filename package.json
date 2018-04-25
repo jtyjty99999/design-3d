@@ -1,10 +1,10 @@
 {
   "name": "webshop",
   "version": "1.0.0",
-  "description": "3D楼层视图",
+  "description": "3D设计器",
   "main": "index.js",
-  "repository": "https://github.com/zkisme/shopNavigation3d.git",
-  "author": "Narney <709447790@qq.com>",
+  "repository": "https://github.com/jtyjty99999/design-3d.git",
+  "author": "jtyjty99999",
   "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.1",
